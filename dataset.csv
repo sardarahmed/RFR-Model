@@ -1,0 +1,70 @@
+famous_spot,famous_hotel,price_per_room,category,weather,route,budget_per_day
+Ansoo Lake,Ansoo Lake Resort,5000,Lake,Cold,Naran to Ansoo Lake,10000
+Astola Island,Astola Island Resort,5500,Island,Hot,Gwadar to Astola Island,12000
+Attabad Lake,Attabad Lake Resort,4500,Lake,Cool,Gilgit to Attabad Lake,9000
+Badshahi Mosque,Badshahi Mosque Hotel,4000,Mosque,Moderate,Lahore to Badshahi Mosque,8000
+Baltoro Glacier,Baltoro Glacier Resort,5500,Mountainous,Cold,Skardu to Baltoro Glacier,11000
+Bhurban,Bhurban Resort,5000,Hill Station,Cool,Murree to Bhurban,10000
+Bruti Waterfall Islamabad,Bruti Waterfall Resort,4500,Waterfall,Moderate,Islamabad to Bruti Waterfall Islamabad,9000
+Concordia,Concordia Resort,5500,Mountainous,Cold,Skardu to Concordia,11000
+Deosai National Park,Deosai National Park Resort,5000,National Park,Cool,Skardu to Deosai National Park,10000
+Derawar Fort,Derawar Fort Resort,4500,Fort,Hot,Bahawalpur to Derawar Fort,9000
+Dhanni Waterfall,Dhanni Waterfall Resort,4000,Waterfall,Moderate,Muzaffarabad to Dhanni Waterfall,8000
+Emperor's Mosque,Emperor's Mosque Hotel,5500,Mosque,Moderate,Lahore to Emperor's Mosque,11000
+Fairy Meadows,Fairy Meadows Resort,5000,National Park,Cold,Raikot Bridge to Fairy Meadows,10000
+Faisal Mosque,Faisal Mosque Hotel,4500,Mosque,Moderate,Islamabad to Faisal Mosque,9000
+Farphu Waterfall,Farphu Waterfall Resort,4000,Waterfall,Cool,Gilgit to Farphu Waterfall,8000
+Gawadar,Gawadar Beach Resort,5500,Coastal,Hot,Karachi to Gawadar,11000
+Gojal Valley,Gojal Valley Resort,5000,Valley,Cool,Gilgit to Gojal Valley,10000
+Gorakh Hill,Gorakh Hill Resort,4500,Hill Station,Cool,Karachi to Gorakh Hill,9000
+Gulpur Mahuli Waterfalls,Gulpur Mahuli Waterfalls Resort,4000,Waterfall,Moderate,Muzaffarabad to Gulpur Mahuli Waterfalls,8000
+Hingol National Park,Hingol National Park Resort,5500,National Park,Hot,Karachi to Hingol National Park,11000
+Hunza Valley,Hunza Valley Resort,5000,Valley,Cool,Gilgit to Hunza Valley,10000
+Indus Kohistan,Indus Kohistan Resort,4500,Mountainous,Cold,Chilas to Indus Kohistan,9000
+Jahaz Banda Kumrat Valley,Jahaz Banda Kumrat Valley Resort,4000,Waterfall,Moderate,Swat to Jahaz Banda Kumrat Valley,8000
+Kalam Valley,Kalam Valley Resort,5500,Valley,Cool,Swat to Kalam Valley,11000
+Kalash,Kalash Resort,5000,Valley,Cool,Chitral to Kalash,10000
+Kanhatti Gardens,Kanhatti Gardens Resort,4500,Waterfall,Moderate,Rawalpindi to Kanhatti Gardens,9000
+Karambar Lake,Karambar Lake Resort,4000,Lake,Cool,Ishkoman Valley to Karambar Lake,8000
+Katasraj Temple,Katasraj Temple Hotel,5500,Temple,Moderate,Chakwal to Katasraj Temple,11000
+Khewra Salt Mine,Khewra Salt Mine Resort,5000,Mine,Moderate,Jhelum to Khewra Salt Mine,10000
+Kiwai Kaghan,Kiwai Kaghan Resort,4500,Waterfall,Cool,Kaghan Valley to Kiwai Kaghan,9000
+Lahore Fort,Lahore Fort Hotel,4000,Fort,Moderate,Lahore to Lahore Fort,8000
+Lake Saif-ul-Malook,Lake Saif-ul-Malook Resort,5500,Lake,Cool,Naran to Lake Saif-ul-Malook,11000
+Lasbela Beach,Lasbela Beach Resort,5000,Coastal,Hot,Lasbela to Lasbela Beach,10000
+Mahodand Waterfall,Mahodand Waterfall Resort,4500,Waterfall,Cool,Kalam to Mahodand Waterfall,9000
+Malam Jabba,Malam Jabba Resort,4000,Hill Station,Cool,Mingora to Malam Jabba,8000
+Manthoka Waterfall,Manthoka Waterfall Resort,5500,Waterfall,Cool,Khaplu to Manthoka Waterfall,11000
+Masjid Wazir Khan,Masjid Wazir Khan Hotel,5000,Mosque,Moderate,Lahore to Masjid Wazir Khan,10000
+Matiltan,Matiltan Resort,4500,Valley,Cool,Kalam to Matiltan,9000
+Minar-e-Pakistan,Minar-e-Pakistan Hotel,4000,Monument,Moderate,Lahore to Minar-e-Pakistan,8000
+Mohatta Palace,Mohatta Palace Hotel,5500,Museum,Moderate,Karachi to Mohatta Palace,11000
+Mohenjo-daro,Mohenjo-daro Resort,5000,Valley,Hot,Sukkur to Mohenjo-daro,10000
+Moola Chotok,Moola Chotok Resort,4500,Waterfall,Hot,Khuzdar to Moola Chotok,9000
+Naltar Lake,Naltar Lake Resort,4000,Lake,Cool,Gilgit to Naltar Lake,8000
+Narh Waterfall,Narh Waterfall Resort,5500,Waterfall,Moderate,Mianwali to Narh Waterfall,11000
+Neela Sandh Waterfall Kotli Sattian,Neela Sandh Waterfall Resort,5000,Waterfall,Cool,Islamabad to Neela Sandh Waterfall Kotli Sattian,10000
+Neelam Valley,Neelam Valley Resort,4500,Valley,Cool,Muzaffarabad to Neelam Valley,9000
+Noori de Than Waterfall Jabri,Noori de Than Waterfall Resort,4000,Waterfall,Cool,Kalam to Noori de Than Waterfall Jabri,8000
+Pakistan Air Force Museum,Pakistan Air Force Museum Hotel,5500,Museum,Moderate,Karachi to Pakistan Air Force Museum,11000
+Pakistan Monument,Pakistan Monument Hotel,5000,Monument,Moderate,Islamabad to Pakistan Monument,10000
+Panjpeer Rocks,Panjpeer Rocks Resort,4500,Mountainous,Moderate,Khushab to Panjpeer Rocks,9000
+Pattan,Pattan Resort,4000,Mountainous,Cool,Kohistan to Pattan,8000
+Pir Sohawa,Pir Sohawa Resort,5500,Resort,Cool,Islamabad to Pir Sohawa,11000
+Rama Lake,Rama Lake Resort,5000,Lake,Cool,Astore to Rama Lake,10000
+Ratti Galli Waterfall,Ratti Galli Waterfall Resort,4500,Waterfall,Cool,Neelum Valley to Ratti Galli Waterfall,9000
+Rawalakot,Rawalakot Resort,4000,Valley,Cool,Muzaffarabad to Rawalakot,8000
+Rohtas Fort,Rohtas Fort Resort,5500,Fort,Moderate,Jhelum to Rohtas Fort,11000
+Rush Lake,Rush Lake Resort,5000,Lake,Cold,Hunza Valley to Rush Lake,10000
+Sajjikot Waterfall Havelian,Sajjikot Waterfall Havelian Resort,4500,Waterfall,Moderate,Abbottabad to Sajjikot Waterfall Havelian,9000
+Satpara Lake,Satpara Lake Resort,4000,Lake,Cool,Skardu to Satpara Lake,8000
+Shalamar Bagh,Shalamar Bagh Resort,5500,National Park,Moderate,Lahore to Shalamar Bagh,11000
+Shangrila Resort,Shangrila Resort,5000,Resort,Cool,Skardu to Shangrila Resort,10000
+Shumber Waterfalls,Shumber Waterfalls Resort,4500,Waterfall,Moderate,Islamabad to Shumber Waterfalls,9000
+Skardu,Skardu Resort,4000,Valley,Cold,Islamabad to Skardu,8000
+Sonmiani Beach,Sonmiani Beach Resort,5500,Coastal,Hot,Karachi to Sonmiani Beach,11000
+Taxila Museum,Taxila Museum Hotel,5000,Museum,Moderate,Taxila to Taxila Museum,10000
+Thal Desert,Thal Desert Resort,4500,Desert,Hot,Bhakkar to Thal Desert,9000
+The Lahore Museum,The Lahore Museum Hotel,4000,Museum,Moderate,Lahore to The Lahore Museum,8000
+Umbrella Waterfall Poona,Umbrella Waterfall Poona Resort,5500,Waterfall,Cool,Swat to Umbrella Waterfall Poona,11000
+West Bay Beach,West Bay Beach Resort,5000,Coastal,Hot,Gwadar to West Bay Beach,10000
